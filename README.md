@@ -11,7 +11,7 @@ Nessa atividade, você deverá montar a página inicial do projeto escolhido, a 
 
 - Nome: Luiz Gustavo Campos Andrade
 - Matricula: 928390
-- Proposta de projeto escolhida: Pesoas e produções
+- Proposta de projeto escolhida: Pessoas e produções
 - Breve descrição sobre seu projeto: O projeto consiste em apresentar resenhas literárias. O objetivo é que o usuário possa visualizar diferentes livros e detalhes sobre eles: breve resumo sobre a história, genêro literário, personagens e detalhes sobre o autor e suas obras.
 
 
