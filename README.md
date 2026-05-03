@@ -9,10 +9,10 @@ Nessa atividade, você deverá montar a página inicial do projeto escolhido, a 
 
 ## Informações Gerais
 
-- Nome:
-- Matricula:
-- Proposta de projeto escolhida:
-- Breve descrição sobre seu projeto:
+- Nome: Luiz Gustavo Campos Andrade
+- Matricula: 928390
+- Proposta de projeto escolhida: 
+- Breve descrição sobre seu projeto: 
 
 
 ## Print do(s) wireframe(s) criado
