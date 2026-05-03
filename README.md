@@ -11,17 +11,17 @@ Nessa atividade, você deverá montar a página inicial do projeto escolhido, a 
 
 - Nome: Luiz Gustavo Campos Andrade
 - Matricula: 928390
-- Proposta de projeto escolhida: 
-- Breve descrição sobre seu projeto: 
+- Proposta de projeto escolhida: Pesoas e produções
+- Breve descrição sobre seu projeto: O projeto consiste em apresentar resenhas literárias. O objetivo é que o usuário possa visualizar diferentes livros e detalhes sobre eles: breve resumo sobre a história, genêro literário, personagens e detalhes sobre o autor e suas obras.
 
 
 ## Print do(s) wireframe(s) criado
 > Sugestão, use o Excalidraw para isso. Utilize esse [template básico](https://excalidraw.com/#json=LU-8hwcQEwzk11FwO8Opo,qPU9K6cNUEzlXzwOuKMIlQ) para você começar.
 
 
-<<  COLOQUE A IMAGEM AQUI >>
+![alt text](image.png)
 
 
 ## Print da home-page criada
 
-<<  COLOQUE A IMAGEM AQUI >>
+![alt text](image-1.png)
